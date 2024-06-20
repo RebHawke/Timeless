@@ -5,6 +5,10 @@
     
 }
 
+.bg-custom1 {
+  background-color: #5f6b53;
+}
+
 .bg-custom2 {
     background-image: url(https://skinnyms.com/wp-content/uploads/2018/04/Traditional-Ratatouille-1.jpg);
     background-attachment: fixed;
@@ -28,3 +32,11 @@
   .rotate:hover {
     transform: rotate(90deg);
   }
+
+.titletext {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
