@@ -15,8 +15,11 @@
     background-size: cover;
 }
 
+
+
+
 .dropdown {text-align:center;}
-.dropdown-menu {width:200px; left:50%; margin-left:-100px;}
+.dropdown-menu {width:100%; left:50%; margin-left:-100px;} 
 
 .btn {
     background-color: none; /* Blue background */
